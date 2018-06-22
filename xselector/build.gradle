@@ -1,6 +1,5 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
-apply plugin: 'maven-publish'
 
 android {
     compileSdkVersion 27
@@ -43,7 +42,7 @@ uploadArchives {
                 authentication(userName: NEXUS_USERNAME, password: NEXUS_PASSWORD)
             }
             pom.project {
-                version '1.0-SNAPSHOT'
+                version '1.0-SNAPSHOT'//带SNAPSHOT的为测试版,会自动上传到snapshotRepository
                 artifactId 'xselector'
                 groupId GROUP_ID
                 packaging TYPE
