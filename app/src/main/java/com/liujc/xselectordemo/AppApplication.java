@@ -2,7 +2,7 @@ package com.liujc.xselectordemo;
 
 import android.app.Application;
 
-import com.android.xselector.XSelector;
+import com.iflytek.xselector.XSelector;
 
 
 /**

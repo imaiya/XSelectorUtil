@@ -1,8 +1,8 @@
-package com.android.xselector.utils;
+package com.iflytek.xselector.utils;
 
 import android.graphics.drawable.Drawable;
 
-import com.android.xselector.XSelector;
+import com.iflytek.xselector.XSelector;
 
 /**
  * 类名称：XHelper

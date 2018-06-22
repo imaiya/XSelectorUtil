@@ -8,14 +8,15 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.android.xselector.XSelector;
-import com.android.xselector.selector.ColorSelector;
+import com.iflytek.xselector.XSelector;
+import com.iflytek.xselector.selector.ColorSelector;
 
 public class MainActivity extends AppCompatActivity {
 
     EditText et1, et2, et3;
     Button btn1, btn2, btn3, btn4, btn_shape;
     TextView tv1, tv2, tv3, tv4;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -1,4 +1,4 @@
-package com.android.xselector.selector;
+package com.iflytek.xselector.selector;
 
 import android.content.res.ColorStateList;
 import android.graphics.Color;
@@ -10,8 +10,8 @@ import android.support.annotation.DrawableRes;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.xselector.interfaces.ISelectorUtil;
-import com.android.xselector.utils.XHelper;
+import com.iflytek.xselector.interfaces.ISelectorUtil;
+import com.iflytek.xselector.utils.XHelper;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.android.xselector.interfaces;
+package com.iflytek.xselector.interfaces;
 
 import android.view.View;
 

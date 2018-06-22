@@ -1,4 +1,4 @@
-package com.android.xselector;
+package com.iflytek.xselector;
 
 import android.annotation.SuppressLint;
 import android.app.Application;
@@ -8,9 +8,9 @@ import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.support.annotation.ColorRes;
 
-import com.android.xselector.selector.ColorSelector;
-import com.android.xselector.selector.DrawableSelector;
-import com.android.xselector.selector.ShapeSelector;
+import com.iflytek.xselector.selector.ColorSelector;
+import com.iflytek.xselector.selector.DrawableSelector;
+import com.iflytek.xselector.selector.ShapeSelector;
 
 /**
  * 类名称：XSelector

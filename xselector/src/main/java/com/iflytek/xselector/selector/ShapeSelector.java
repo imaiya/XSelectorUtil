@@ -1,4 +1,4 @@
-package com.android.xselector.selector;
+package com.iflytek.xselector.selector;
 
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
@@ -11,9 +11,9 @@ import android.support.annotation.StringDef;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.xselector.XSelector;
-import com.android.xselector.interfaces.ISelectorUtil;
-import com.android.xselector.utils.XHelper;
+import com.iflytek.xselector.XSelector;
+import com.iflytek.xselector.interfaces.ISelectorUtil;
+import com.iflytek.xselector.utils.XHelper;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

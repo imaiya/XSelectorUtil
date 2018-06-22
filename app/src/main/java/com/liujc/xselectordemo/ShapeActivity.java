@@ -6,8 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.android.xselector.XSelector;
-import com.android.xselector.selector.ShapeSelector;
+import com.iflytek.xselector.XSelector;
+import com.iflytek.xselector.selector.ShapeSelector;
 
 
 /**
